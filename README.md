@@ -31,7 +31,7 @@ Step 18
 
 ## Questions about the Activity as you work. 
 ```
-
+how do I add color inside the shapes?
 ```
 #### Description Of The App 
 
